@@ -5,7 +5,14 @@
 - HTML Snippets
 - Material Icon Theme
 - Quokka.js 
-- Stylus
+- Gitignore
+- GraphQL for vscode
+- import cost
+- npm intellisense
+- Vim
+- Vue Peek
+- Editorconfig
+- GitLens
 - Vetur
-- vue
+- vue (syntax highlight for vuejs)
 - VueHelper
